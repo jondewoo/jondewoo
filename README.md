@@ -8,10 +8,6 @@
 
 Curious and passionate, always eager to learn and grow, my craft is creating groundbreaking solutions that integrate best practices and state-of-the-art technologies, focusing on quality through automation of testing and delivery.
 
-## Stats 📈
-
-![Jonathan's GitHub stats](https://github-readme-stats-nine-ashen-67.vercel.app/api?username=jondewoo&show_icons=true&theme=transparent)
-
 ## Stacks 🥞
 
 ### Web 🕸️
